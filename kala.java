@@ -1,9 +1,7 @@
-class classa
+class classA
 {
-	public static void main(String args[])
+	public static void main(Strinr agrs[])
 	{
-
-     System.out.println("hello eworld of kala");
-
-	} 
+	 System.out.println("helloworld kala") 
+	}
 }
